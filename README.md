@@ -22,3 +22,8 @@ Voice IP Topologie Cisco :
 Voice IP Configuration Finale : 
 
         - Il s'agit ici de la simulation du projet avec deux  départements. Un département Administration et un département Génie Télécommunication
+
+Logiciels utilisés : 
+
+        - Packet Tracer 
+        - Obsidian 

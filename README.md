@@ -14,3 +14,11 @@ La présentation du projet est subdiviser en deux partie :
 
         - Router : 2811
         - Switch : 2950-24
+        
+Voice IP Topologie Cisco : 
+
+        - Il s'agit ici de la simulation du projet avec un seul département les numéros allant de 1010 - 1030
+        
+Voice IP Configuration Finale : 
+
+        - Il s'agit ici de la simulation du projet avec deux  départements. Un département Administration et un département Génie Télécommunication
